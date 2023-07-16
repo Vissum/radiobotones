@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">radiobotones</string>
+    <string name="ingrese_el_primer_valor">Ingrese el primer valor:</string>
+    <string name="ingrese_el_primer_valor_hint">Ingrese el primer valor</string>
+    <string name="ingrese_el_segundo_valor">Ingrese el segundo valor:</string>
+    <string name="ingrese_el_segundo_valor_hint">Ingrese el segundo valor</string>
+    <string name="sumar">Sumar</string>
+    <string name="restar">Restar</string>
+    <string name="calcular">Calcular</string>
+    <string name="please_enter_both_numbers">Por favor, ingrese ambos números.</string>
+    <string name="result">Resultado</string>
+    <string name="calres">El resultado es: %d</string>
+
+
+</resources>
